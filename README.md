@@ -16,7 +16,7 @@
   [Mountain Lion環境への「Homebrew」のインストール手順](http://qiita.com/skinoshita/items/fd146ac223bab433b348)
 
   Homebrewのインストールが完了したら、ターミナルで以下のコマンドを入力してください。  
-  ```brew instal scala``` 
+  ```brew install scala``` 
   
 Windows/Macのどちらかでインストールが終わったら、以下のコマンドを入力してScalaが入っているか確認します。  
 ```scala -version```  

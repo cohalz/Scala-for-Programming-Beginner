@@ -84,3 +84,4 @@ public class HelloWorld {
 プログラミングにおいて大事な知識は多いですが、その多くをScala一つでカバーすることができるのがScalaを勧める大きな理由です。
 
 何かあればTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+

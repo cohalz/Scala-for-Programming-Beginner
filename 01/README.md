@@ -120,3 +120,7 @@ Sublime Text 2ですが、シェアウェアなのでたまに「買ってくだ
 開発者のためにも、お金に余裕できたらでいいので購入するようにしましょう。
 
 何かあればTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+
+次回 -> 作成中
+
+前回 -> [Scalaで始めるプログラミング入門](https://github.com/cohalz/scala-for-programming-beginner) 

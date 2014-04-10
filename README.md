@@ -13,7 +13,7 @@
   Macはパッケージ管理ツールのHomebrewを使うのが一般的です。  
   Homebrewが何かわからない・多分入っていないと思う人は、以下の記事に従って導入してください。  
   Terminal.app(ターミナル)はアプリケーション->ユーティリティのフォルダに入っています。  
-  [Mountain Lion環境への「Homebrew」のインストール手順](http://qiita.com/skinoshita/items/fd146ac223bab433b348)
+  [Mac OS X Mavericks にHomebrewをインストールする方法](http://maezono.info/2013/12/14/1350)
 
   Homebrewのインストールが完了したら、ターミナルで以下のコマンドを入力してください。  
   ```brew install scala``` 

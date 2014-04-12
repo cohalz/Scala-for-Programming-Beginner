@@ -1,7 +1,7 @@
 #Scalaで始めるプログラミング入門
 次世代言語と呼ばれることもあるScalaを使ってプログラミングを学んでいきましょう。  
 プログラミングを始めようと思っている、または始めたけど挫折しちゃっている人のレベルからを対象としています。  
-#####[何故Scalaなの？](https://github.com/cohalz/scala-for-programming-beginner#%E4%BD%95%E6%95%85scala%E3%81%AA%E3%81%AE)
+#####[何故Scalaなの？](https://github.com/cohalz/scala-for-programming-beginner#%E4%BD%95%E6%95%85scala%E3%81%AA%E3%81%AE-1)
 ##目次
 
 - 00 [Scalaの導入](https://github.com/cohalz/scala-for-programming-beginner)

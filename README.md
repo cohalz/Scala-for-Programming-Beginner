@@ -83,6 +83,6 @@ public class Main {
 最近人気が上がっているHaskellやOCaml、F#などの関数型言語と呼ばれる言語で聞くような特徴も取り入れています。  
 プログラミングにおいて大事な知識は多いですが、その多くをScala一つでカバーすることができるのがScalaを勧める大きな理由です。
 
-何かあればTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+何かあれば[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
 次回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)

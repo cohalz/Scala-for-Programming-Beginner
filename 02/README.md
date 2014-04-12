@@ -172,7 +172,7 @@ println((milk * 2 + pork) * tax)
 
 最後に、注意点があります。  
 税抜き100円のものを増税前と増税後の値段で表示したいとき以下のように書きたくなると思います。
-```
+```scala
 val tax = 1.05
 println(100 * tax)
 val tax = 1.08
@@ -189,7 +189,7 @@ one error found
 このように言われてしまいます。
 定義し直すことはできません。
 素直にこう書きましょう。
-```
+```scala
 val oldtax = 1.05
 val newtax = 1.08
 println(100 * oldtax)

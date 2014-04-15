@@ -182,6 +182,8 @@ Titleに「03-1」など、いつの何番の問題かわかるように書い�
 Leave a commentに書いたコードを貼り付けて、Submit new issueを押してください。   
 課題が提出できたら、しばらくして僕が評価を返すのでそれを待ちましょう。  
 
+もしちょっと考えてわからなかったら上部にあるanswerに答えを用意しましたので、ぜひ活用してください。
+
 また質問やご意見あればお待ちしてます。  
 上記のページは課題以外でも質問やご意見を送ることができます。  
 [こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。

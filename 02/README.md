@@ -210,12 +210,12 @@ println(100 * newtax)
 アカウントを作成できたら、ログインをして、上記のページに飛びます。  
 Titleに「02-1」など、いつの何番の問題かわかるように書いてください。  
 Leave a commentに書いたコードを貼り付けて、Submit new issueを押してください。   
-課題が提出できたら、しばらくして僕が評価を返します。  
+課題が提出できたら、しばらくして僕が評価を返すのでそれを待ちましょう。  
 
 また質問やご意見あればお待ちしてます。  
 上記のページは課題以外でも質問やご意見を送ることができます。  
 [こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> 作成中
+次回 -> [文字列と入出力](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
 
 前回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)

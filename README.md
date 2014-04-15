@@ -7,6 +7,7 @@
 - 00 [Scalaの導入](https://github.com/cohalz/scala-for-programming-beginner)
 - 01 [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)
 - 02 [変数とコードの変更](https://github.com/cohalz/scala-for-programming-beginner/tree/master/02)
+- 03 [文字列と入出力](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
 
 ##インストール方法  
 まずはScalaをインストールしましょう。

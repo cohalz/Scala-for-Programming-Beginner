@@ -10,8 +10,29 @@
 - 03 [文字列と入出力](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
 
 ##インストール方法  
-まずはScalaをインストールしましょう。
+まずはScalaをインストールしましょう。  
+###Javaの確認とインストール方法
+Scalaを使えるようにするにはJavaが必要です。
 
+Javaが入っているかどうかの確認をします。  
+Windowsならコマンドプロンプト、Macならターミナルを開いて以下のコマンドを入力してください。
+```
+java -version
+```
+その結果以下の様な表示が出たらJavaは入っています。
+```
+java version "1.7.0_45"
+Java(TM) SE Runtime Environment (build 1.7.0_45-b18)
+Java HotSpot(TM) 64-Bit Server VM (build 24.45-b08, mixed mode)
+```
+
+表示が出なかった場合、以下の手順を行ってください。  
+[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  
+ここから、Java Platform (JDK)をクリックします。  
+Java SE Development Kitと書いてあるところを探し、Accept License Agreementをクリックします。  
+その後、使用しているOSに合わせてダウンロードをし、インストールを行ってください。  
+
+###Scalaのインストール方法
 - **Windows**  
   以下のリンクからインストールが可能です。  
   指示に従って進めていってください。  
@@ -26,15 +47,22 @@
   Homebrewのインストールが完了したら、ターミナルで以下のコマンドを入力してください。  
   ```brew install scala``` 
   
-Windows/Macのどちらかでインストールが終わったら、以下のコマンドを入力してScalaが入っているか確認します。  
-```scala -version```  
+Windows/Macのどちらかでインストールが終わったら、一旦コマンドプロンプトやターミナルを閉じます。
+もう一度起動してから、以下のコマンドを入力してScalaが入っているか確認します。  
+```
+scala -version
+```  
   
 その結果以下の様な表示が出れば成功です。おめでとうございます。  
-```Scala code runner version 2.10.2 -- Copyright 2002-2013, LAMP/EPFL```
+```
+Scala code runner version 2.10.2 -- Copyright 2002-2013, LAMP/EPFL
+```
 
 ##Scalaコードを試してみましょう！  
-Windowsならコマンドプロンプト、Macならターミナルを起動して以下のコマンドを入力してください。  
-```scala ```  
+Windowsならコマンドプロンプト、Macならターミナルを使い以下のコマンドを入力してください。  
+```
+scala
+```  
 
 その結果以下の表示が出ると思います。  
 ```  
@@ -46,7 +74,9 @@ scala>
 ```
 
 scala> という表示の後にカーソルがあると思いますが、ちょっと文字を入れてみましょう。  
-```scala> 1 + 1```  
+```
+scala> 1 + 1
+```  
 
 1 + 1を入力しました。  
 その結果は以下に似たものになったと思います。

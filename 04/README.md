@@ -57,8 +57,8 @@ x is not larger than 2
 ##数字を入力させる
 前回で、readLineという文字列の入力をさせて変数にするものを使いました。  
 それとは別に整数の入力をさせるものもあります。
+例として、実際に上のコードから入力部分を変更するとこうなります。
 ```scala
-print("x = ")
 val x = readInt
 if(x > 2) {
   println("x is larger than 2")
@@ -66,7 +66,7 @@ if(x > 2) {
   println("x is not larger than 2")
 }
 ```
-一行目はただ「xの数字を入力してください」と表示しているだけなので、二行目が大事です。
+一行目を見てください。
 ```
 val x = readInt
 ```

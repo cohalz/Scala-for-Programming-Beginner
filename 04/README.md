@@ -302,6 +302,6 @@ Leave a commentに書いたコードを貼り付けて、Submit new issueを押�
 上記のページは課題以外でも質問やご意見を送ることができます。  
 [こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> 作成中
+次回 -> [繰り返し](https://github.com/cohalz/scala-for-programming-beginner/tree/master/05)
 
 前回 -> [文字列と入出力](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)

@@ -9,6 +9,7 @@
 - 02 [変数とコードの変更](https://github.com/cohalz/scala-for-programming-beginner/tree/master/02)
 - 03 [文字列と入出力](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
 - 04 [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)
+- 05 [繰り返し](https://github.com/cohalz/scala-for-programming-beginner/tree/master/05)
 
 ##インストール方法  
 まずはScalaをインストールしましょう。  

@@ -38,7 +38,7 @@ Java SE Development Kitと書いてあるところを探し、Accept License Agr
 - **Windows**  
   以下のリンクからインストールが可能です。  
   指示に従って進めていってください。  
-  [http://www.scala-lang.org/files/archive/scala-2.10.4.msi](http://www.scala-lang.org/files/archive/scala-2.10.4.msi)
+  [http://www.scala-lang.org/files/archive/scala-2.10.4.msi](http://www.scala-lang.org/files/archive/scala-2.11.0.msi)
 
 - **Mac**  
   Macはパッケージ管理ツールのHomebrewを使うのが一般的です。  

@@ -57,7 +57,7 @@ scala -version
   
 その結果以下の様な表示が出れば成功です。おめでとうございます。  
 ```
-Scala code runner version 2.10.2 -- Copyright 2002-2013, LAMP/EPFL
+Scala code runner version 2.11.0 -- Copyright 2002-2013, LAMP/EPFL
 ```
 
 ##Scalaコードを試してみましょう！  
@@ -68,7 +68,7 @@ scala
 
 その結果以下の表示が出ると思います。  
 ```  
-Welcome to Scala version 2.10.2 (Java HotSpot(TM) 64-Bit Server VM, Java 1.7.0_45).
+Welcome to Scala version 2.11.0 (Java HotSpot(TM) 64-Bit Server VM, Java 1.7.0_45).
 Type in expressions to have them evaluated.
 Type :help for more information.
 

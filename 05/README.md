@@ -50,18 +50,18 @@ for(i <- 1 to 10) {
 }
 ```
 これを見ると、前回のifと同じような構造をしている事がわかります。
-```
-if(条件) {
-  コード
+```scala
+if(/* 条件 */) {
+  //コード
 }
 ```
-```
-for(何か) {
-  コード
+```scala
+for(/* 何か */) {
+  //コード
 }
 ```
 この**何か**の部分を見ていきましょう。
-```
+```scala
 i <- 1 to 10
 ```
 1 to 10は英語で**1から10**までと読めます。  
@@ -260,6 +260,6 @@ Leave a commentに書いたコードを貼り付けて、Submit new issueを押�
 上記のページは課題以外でも質問やご意見を送ることができます。  
 [こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> 作成中
+次回 -> [リスト入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
 
 前回 -> [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)

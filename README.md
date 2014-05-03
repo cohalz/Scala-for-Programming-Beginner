@@ -10,7 +10,7 @@
 - 03 [文字列と入出力、コメント](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
 - 04 [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)
 - 05 [繰り返し](https://github.com/cohalz/scala-for-programming-beginner/tree/master/05)
-- 06 [リスト入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
+- 06 [List入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
 
 ##インストール方法  
 まずはScalaをインストールしましょう。  

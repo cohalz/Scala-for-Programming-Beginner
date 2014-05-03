@@ -260,6 +260,6 @@ Leave a commentに書いたコードを貼り付けて、Submit new issueを押�
 上記のページは課題以外でも質問やご意見を送ることができます。  
 [こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> [リスト入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
+次回 -> [List入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
 
 前回 -> [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)

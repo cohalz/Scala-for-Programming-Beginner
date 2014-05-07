@@ -119,8 +119,8 @@ scala 1.scala
 Sublime Text 2ですが、シェアウェアなのでたまに「買ってください！」という感じの表示が出ると思います。  
 開発者のためにも、お金に余裕できたらでいいので購入するようにしましょう。
 
-何かあれば[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+何かあれば[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> [変数とコードの変更](https://github.com/cohalz/scala-for-programming-beginner/tree/master/02)
+次回 -> [変数とコードの変更](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/02)
 
-前回 -> [Scalaで始めるプログラミング入門](https://github.com/cohalz/scala-for-programming-beginner) 
+前回 -> [Scalaで始めるプログラミング入門](https://github.com/cohalz/Scala-for-Programming-Beginner) 

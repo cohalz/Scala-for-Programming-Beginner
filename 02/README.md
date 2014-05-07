@@ -216,7 +216,7 @@ val t108 = 1.08
 (2) discountという変数を使い、引き算や割り算などで割引を表現してみましょう。
 
 ###提出方法
-[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)を用意しました。  
+[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)を用意しました。  
 はじめにGitHubアカウントを作成してください。  
 アカウントを作成できたら、ログインをして、上記のページに飛びます。  
 Titleに「02-1」など、いつの何番の問題かわかるように書いてください。  
@@ -225,8 +225,8 @@ Leave a commentに書いたコードを貼り付けて、Submit new issueを押�
 
 また質問やご意見あればお待ちしてます。  
 上記のページは課題以外でも質問やご意見を送ることができます。  
-[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> [文字列と入出力、コメント](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
+次回 -> [文字列と入出力、コメント](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/03)
 
-前回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)
+前回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/01)

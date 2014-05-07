@@ -247,7 +247,7 @@ Fizz
 Buzz
 ```
 ###提出方法
-[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)を用意しました。  
+[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)を用意しました。  
 はじめにGitHubアカウントを作成してください。  
 アカウントを作成できたら、ログインをして、上記のページに飛びます。  
 Titleに「05-1」など、いつの何番の問題かわかるように書いてください。  
@@ -258,8 +258,8 @@ Leave a commentに書いたコードを貼り付けて、Submit new issueを押�
 
 また質問やご意見あればお待ちしてます。  
 上記のページは課題以外でも質問やご意見を送ることができます。  
-[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> [List入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
+次回 -> [List入門](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/06)
 
-前回 -> [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)
+前回 -> [条件分岐](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/04)

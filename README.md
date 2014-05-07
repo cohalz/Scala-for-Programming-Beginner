@@ -1,16 +1,16 @@
 #Scalaで始めるプログラミング入門
 次世代言語と呼ばれることもあるScalaを使ってプログラミングを学んでいきましょう。  
 プログラミングを始めようと思っている、または始めたけど挫折しちゃっている人のレベルからを対象としています。  
-####[何故Scalaなの？](https://github.com/cohalz/scala-for-programming-beginner#%E4%BD%95%E6%95%85scala%E3%81%AA%E3%81%AE-1)
+####[何故Scalaなの？](https://github.com/cohalz/Scala-for-Programming-Beginner#%E4%BD%95%E6%95%85scala%E3%81%AA%E3%81%AE-1)
 ##目次
 
-- 00 [Scalaの導入](https://github.com/cohalz/scala-for-programming-beginner)
-- 01 [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)
-- 02 [変数とコードの変更](https://github.com/cohalz/scala-for-programming-beginner/tree/master/02)
-- 03 [文字列と入出力、コメント](https://github.com/cohalz/scala-for-programming-beginner/tree/master/03)
-- 04 [条件分岐](https://github.com/cohalz/scala-for-programming-beginner/tree/master/04)
-- 05 [繰り返し](https://github.com/cohalz/scala-for-programming-beginner/tree/master/05)
-- 06 [List入門](https://github.com/cohalz/scala-for-programming-beginner/tree/master/06)
+- 00 [Scalaの導入](https://github.com/cohalz/Scala-for-Programming-Beginner)
+- 01 [簡単な計算とテキストエディタの導入](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/01)
+- 02 [変数とコードの変更](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/02)
+- 03 [文字列と入出力、コメント](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/03)
+- 04 [条件分岐](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/04)
+- 05 [繰り返し](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/05)
+- 06 [List入門](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/06)
 
 ##インストール方法
 まずはScalaをインストールしましょう。
@@ -180,8 +180,8 @@ public class Main {
 その多くをScala一つでカバーすることができるのがScalaを勧める大きな理由です。
 
 Scalaやプログラミング全般に役に立つものをまとめています。是非参考にしてください。  
-#####[参考になる書籍やサイト一覧](https://github.com/cohalz/scala-for-programming-beginner/tree/master/references)
+#####[参考になる書籍やサイト一覧](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/references)
 
-何かあれば[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
+何かあれば[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
-次回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)
+次回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/01)

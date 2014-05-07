@@ -179,6 +179,9 @@ public class Main {
 プログラミングにおいて大事な知識は多いです。  
 その多くをScala一つでカバーすることができるのがScalaを勧める大きな理由です。
 
+Scalaやプログラミング全般に役に立つものをまとめています。是非参考にしてください。  
+#####[参考になる書籍やサイト一覧](https://github.com/cohalz/scala-for-programming-beginner/tree/master/references)
+
 何かあれば[こちら](https://github.com/cohalz/scala-for-programming-beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。
 
 次回 -> [簡単な計算とテキストエディタの導入](https://github.com/cohalz/scala-for-programming-beginner/tree/master/01)

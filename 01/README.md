@@ -118,6 +118,7 @@ Ctrl(Macはcommand)とShiftとpを同時押しすると、上にコンソール�
 ```
 これを保存すると、Vimというテキストエディタのキー操作をSublime Text2でも使うことが出来ます。  
 Vimは少ない操作でカッコの中だけを削除したり、一行コピーしたりなど、プログラミングの効率を高める事ができるエディタです。  
+人気が高く、Sublime Text2やVisual Studio(VsVimという拡張があります)でも拡張してVimのキー操作を使うことが出来ます。
 詳しくは、以下の動画をご覧ください。  
 [コーディングを3倍速くする！ Vim入門](http://vimeo.com/22709519)  
 [vim入門 - ドットインストール](http://dotinstall.com/lessons/basic_vim)

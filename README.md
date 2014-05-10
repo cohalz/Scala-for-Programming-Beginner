@@ -179,13 +179,14 @@ public class Main {
 また、それとは別の理由としてScalaでは、  
 「**オブジェクト指向**」と呼ばれるJavaやRubyでよく使われる概念を簡単に書けるようになっていたり、  
 「**関数型言語**」と呼ばれるHaskellやOCaml、F#などの言語で聞くような特徴も取り入れています。
-さらに、Scalaは上で必要になったようにJavaの仮想マシン上で動きます。
+
+さらに、Scalaは上で必要になったようにJavaの仮想マシン上で動きます。  
 そのためJavaで使える豊富なライブラリをScalaもそのまま使うことが出来ます。
 
 プログラミングにおいて大事な知識は多いです。  
 その多くをScala一つでカバーすることができるのがScalaを勧める大きな理由です。
 
-Scalaやプログラミング全般に役に立つものをまとめています。是非参考にしてください。  
+以下のリンクではScalaやプログラミング全般に役に立つものをまとめています。是非参考にしてください。  
 #####[参考になる書籍やサイト一覧](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/references)
 
 何かあれば[こちら](https://github.com/cohalz/Scala-for-Programming-Beginner/issues/new)かTwitter([@cohalz](https://twitter.com/cohalz))まで気軽にどうぞ。是非一緒に学びましょう。

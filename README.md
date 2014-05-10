@@ -11,6 +11,8 @@
 - 04 [条件分岐](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/04)
 - 05 [繰り返し](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/05)
 - 06 [List入門](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/06)
+- 07 [List入門2](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/07)
+
 
 ##インストール方法
 まずはScalaをインストールしましょう。

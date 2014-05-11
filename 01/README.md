@@ -131,7 +131,9 @@ Vimは少ない操作でカッコの中だけを削除したり、一行コピ�
 Vimはモードというものがあり、iやaを押して入力するモード、そこからescを押して編集コマンドを打つノーマルモードなどがあります。  
 詳しくは、以下の動画をご覧ください。  
 [コーディングを3倍速くする！ Vim入門](http://vimeo.com/22709519)  
-[vim入門 - ドットインストール](http://dotinstall.com/lessons/basic_vim)
+[vim入門 - ドットインストール](http://dotinstall.com/lessons/basic_vim)  
+書籍としては「実践Vim」というものが非常にお勧めです。  
+[実践Vim 思考のスピードで編集しよう!](http://www.amazon.co.jp/gp/product/4048916599/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=4048916599&linkCode=as2&tag=cohalz-22)
 
 また、ドットインストールというサイトではSublime Text2の解説動画もあります。  
 [Sublime Text 2入門 - ドットインストール](http://dotinstall.com/lessons/basic_sublimetext)

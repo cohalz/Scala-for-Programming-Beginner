@@ -98,6 +98,7 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
 ```Please restart Sublime Text to finish installation```と表示されたら、一度終了させてもう一度Sublime Text2を起動します。
 Ctrl(Macはcommand)とShiftとpを同時押しすると、上にコンソールが出るので、  
 ![CommandPallet](img/CommandPallet.png)
+  
 ```Install Package```と入力してEnterを押します。  
 ![Install Package](img/InstallPackage.png)
 

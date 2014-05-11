@@ -73,7 +73,7 @@
 ```javascript
 {
 
-"font_size": 13,
+"font_size": 15,
 
 "tab_size": 2
 
@@ -89,6 +89,7 @@ Sublime Text2はとても拡張性が高く、扱いやすいエディタです�
 拡張機能のインストールが出来るように設定をします。  
 メニュー上部のViewからShow Consoleを選択すると下にコンソール画面が表示されるので、  
 以下のコードを貼り付けてEnterを押します。
+![showconsole](img/showconsole.png)
 
 ```
 import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')
@@ -96,8 +97,16 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
 
 ```Please restart Sublime Text to finish installation```と表示されたら、一度終了させてもう一度Sublime Text2を起動します。
 Ctrl(Macはcommand)とShiftとpを同時押しすると、上にコンソールが出るので、  
-```install Package```と入力してEnterを押します。  
-するとまたコンソールが出るので、今度は```VintageEx```を押します。  
+![CommandPallet](img/CommandPallet.png)
+```Install Package```と入力してEnterを押します。  
+![Install Package](img/InstallPackage.png)
+
+するとまたコンソールが出ます。
+![Papackagecontrol](img/packagecontrol.png)
+
+今度は```VintageEx```を入力します。  
+![VintageEx](img/VintageEx.png)
+  
 これでVintageExというプラグインが導入されました。  
 今後別の拡張機能を入れたい場合はCtrl+Shift+pからinstall Packageを入力することで入れることが出来ます。
 
@@ -112,19 +121,45 @@ Ctrl(Macはcommand)とShiftとpを同時押しすると、上にコンソール�
   // 新規ファイルを開いたらノーマルモード
   "vintage_start_in_command_mode": true,
   
-  "font_size": 13,
+  "font_size": 15,
   "tab_size": 2
 }
 ```
 これを保存すると、Vimというテキストエディタのキー操作をSublime Text2でも使うことが出来ます。  
 Vimは少ない操作でカッコの中だけを削除したり、一行コピーしたりなど、プログラミングの効率を高める事ができるエディタです。  
-人気が高く、Sublime Text2やVisual Studio(VsVimという拡張があります)でも拡張してVimのキー操作を使うことが出来ます。
+人気が高く、Sublime Text2やVisual Studio(VsVimという拡張があります)でも拡張してVimのキー操作を使うことが出来ます。  
 詳しくは、以下の動画をご覧ください。  
 [コーディングを3倍速くする！ Vim入門](http://vimeo.com/22709519)  
 [vim入門 - ドットインストール](http://dotinstall.com/lessons/basic_vim)
 
 また、ドットインストールというサイトではSublime Text2の解説動画もあります。  
 [Sublime Text 2入門 - ドットインストール](http://dotinstall.com/lessons/basic_sublimetext)
+
+##フォントを変更する
+プログラミングに向いたフォントというものも存在します。  
+0とO、1とIとlと区別、全角スペースの可視化など非常に便利な「Ricty Diminished」を導入します。  
+以下のリンクから最新版をダウンロードします。 
+[プログラミング用フォント Ricty Diminished](http://save.sys.t.u-tokyo.ac.jp/~yusa/fonts/rictydiminished.html)  
+tar.gzファイルを解凍し、RictyDiminished-RegularとRictyDiminished-Boldをクリックして、インストールします。
+![fontinstall](img/fontinstall.png)
+
+インストールが終わったら、settingsを以下のように書き換えます。
+```javascript
+{
+  // Vim モード
+  "ignored_packages": [],
+  // Vim のキーバインドを使用
+  "vintage_ctrl_keys": true,
+  // 新規ファイルを開いたらノーマルモード
+  "vintage_start_in_command_mode": true,
+
+  //フォントを変更する
+  "font_face": "RictyDiminished",
+  "font_size": 15,
+  "tab_size": 2
+}
+```
+保存した際に、フォントが変更されたら完了です。
 
 ##Scalaコードをファイルから実行する
 今までは一行一行試していましたが、実際のプログラミングではもちろんそんな少ない行ではやりたいことは実現できません。  

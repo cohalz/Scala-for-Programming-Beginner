@@ -93,12 +93,13 @@ Java SE Development Kitと書いてあるところを探し、Accept License Agr
   brew update
   ```
   
-  ここまで来たら、Scalaをインストールします。
+  最後に、Scalaをインストールします。
   ```
   brew install scala
   ```
 
-Windows/Macのどちらかでインストールが終わったら、一旦コマンドプロンプトやターミナルを閉じます。  
+ここまで来ればWindows/MacのどちらかでScalaのインストールが終わったはずです。  
+インストールが終わったら、一旦**コマンドプロンプトやターミナルを閉じます**。  
 もう一度起動してから、以下のコマンドを入力してScalaが入っているか確認します。
 
 ```

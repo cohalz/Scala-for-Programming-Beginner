@@ -194,20 +194,20 @@ Programming is too difficult?
 countという変数を使って、入力された文字列をcountの回数だけ並べるプログラムを書いてください。
 ####入力例1：(countが3の場合)
 ```
-"ABC"
+ABC
 ```
 ####出力例1：
 ```
-"ABCABCABC"
+ABCABCABC
 ```
 
 ####入力例2：(countが5の場合)
 ```
-"x"
+x
 ```
 ####出力例2：
 ```
-"xxxxx"
+xxxxx
 ```
 
 ###提出方法

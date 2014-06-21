@@ -12,6 +12,7 @@
 - 05 [繰り返し](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/05)
 - 06 [List入門](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/06)
 - 07 [List入門2](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/07)
+- 08 [型](https://github.com/cohalz/Scala-for-Programming-Beginner/tree/master/08)
 
 
 ##インストール方法

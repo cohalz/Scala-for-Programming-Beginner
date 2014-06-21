@@ -9,11 +9,11 @@
 scala> 
 ```
 以下のように入力します。
-```scala
+```
 scala> val x = 10
 ```
 すると以下のような結果になります。
-```scala
+```
 x: Int = 10
 ```
 xや10は自分で入力するのでわかりますが、**Int**とは何でしょう？  
@@ -49,12 +49,12 @@ Intというのは整数を意味しています。
 - **Char**型  
   文字(一文字)を表します。**シングルクォート(')で囲われています**。  
   ダブルクォートで囲う文字列とは違います。  
-  ```scala
+  ```
   scala> val charx = 'x'
   charx: Char = x
   ```
   一文字しか囲えませんので以下のものはエラーとなります。  
-  ```scala
+  ```
   scala> val test = 'abc'
   <console>:1: error: unclosed character literal
          val test = 'abc'
@@ -64,11 +64,13 @@ Intというのは整数を意味しています。
   文字列を表す型です。**ダブルクォートで囲います**。  
   実は文字列は**「文字(Char)のList」のように扱える**ようになっています。  
   なのでlengthやtake、filterなどの便利なメソッドが使えます。
-  ```scala
+  ```
   scala> val str = "abcde"
   str: String = abcde
+
   scala> str.length
   res0: Int = 5
+  
   scala> str.take(3)
   res1: String = abc
   ```
@@ -76,7 +78,7 @@ Intというのは整数を意味しています。
 - **List**型  
   Listを表す型です。
   どのような型の要素を格納するのか判断するために、型がもう一つ必要です。
-  ```scala 
+  ``` 
   scala> val lst = List(1, 2, 3)
   lst: List[Int] = List(1, 2, 3)
   scala> val lst2 = List("a", "bc", "def")

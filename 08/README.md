@@ -127,7 +127,7 @@ scala> val y: Long = "abc"
 与えられたデータがどんな型なのか型を考えましょう。  
 型推論された変数に型注釈をつけて正しく動くか試してみましょう。
 ####例1：
-```scala
+```
 val x = 1
 println(x)
 ```
@@ -154,31 +154,31 @@ one error found
 エラーが出ず、変数の中身が出力されたら正解となります。
 
 ###(1)
-```scala
+```
 val a = "HelloWorld"
 println(a)
 ```
 
 ###(2)
-```scala
-val b = 'b'
-println(a)
+```
+val b = 'x'
+println(b)
 ```
 
 ###(3)
-```scala
+```
 val c = 2147483648L
 println(c)
 ```
 
 ###(4)
-```scala
+```
 val d = List(1, 2, 3)
 println(d)
 ```
 
 ###(5)
-```scala
+```
 val e = List(List(1, 2), List(3, 4), List(5, 6))
 println(e)
 ```

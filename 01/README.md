@@ -165,7 +165,20 @@ tar.gzファイルを解凍し、RictyDiminished-RegularとRictyDiminished-Bold�
 }
 ```
 保存した際に、フォントが変更されたら完了です。
+####6/22追記
+6/21に[@lindwurm](https://twitter.com/lindwurm)さんが、Kibitakiというプログラミング用フォントを公開しました。  
+[https://github.com/Koruri/kibitaki/releases](https://github.com/Koruri/kibitaki/releases)からダウンロードが出来ます。  
+Rictyとお好みで使用してください。 
 
+Kibitaki Regularが使いたい場合は以下のようにfont_faceを変更します。  
+```
+"font_face": "Kibitaki-Light"
+```
+Kibitaki Lightが気に入った場合は以下のように変更します。
+```
+"font_face": "Kibitaki-Light"
+```
+(ただし、Kibitakiは全角スペースの可視化がありませんので全角スペースの使用には注意してください)
 ##Scalaコードをファイルから実行する
 今までは一行一行試していましたが、実際のプログラミングではもちろんそんな少ない行ではやりたいことは実現できません。  
 いくつかのコードを組み合わせて実行するために、Scalaコードが書かれたファイルを保存します。  

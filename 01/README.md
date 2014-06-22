@@ -172,7 +172,7 @@ Rictyとお好みで使用してください。
 
 Kibitaki Regularが使いたい場合は以下のようにfont_faceを変更します。  
 ```
-"font_face": "Kibitaki-Light"
+"font_face": "Kibitaki"
 ```
 Kibitaki Lightが気に入った場合は以下のように変更します。
 ```

@@ -1,0 +1,45 @@
+
+let $SSH_ASKPASS = simplify($VIM . '/../../MacOS') . '/macvim-askpass'
+set noimdisable
+set imdisableactivate
+
+if has('gui_macvim')
+  set guioptions-=T
+  set showtabline=0
+  set imdisable        " IME OFF
+  set guioptions-=T    " ツールバー非表示
+  set antialias        " アンチエイリアス
+  set tabstop=2        " タブサイズ
+  set autoindent
+  set expandtab
+  set softtabstop=2
+  set shiftwidth=2
+  set transparency=10
+  set number           " 行番号表示
+  set nobackup         " バックアップなし
+  set visualbell t_vb= " ビープ音なし
+  colorscheme hybrid "カラースキーマ
+  set columns=170      " 横幅
+  set lines=999935     " 行数
+  set nowrapscan       " 検索をファイルの先頭へループしない
+
+  " フォント設定
+  set guifontwide=Kibitaki-Light:h14
+  set guifont=Kibitaki-Light:h14
+
+endif
+
+"ポップアップ補完メニュー色設定（通常の項目、選択されている項目、スクロールバー、スクロールバーのつまみ部分）
+  hi Pmenu                    guibg=#222222
+  hi PmenuSel                 guifg=#8bcced guibg=#333333
+  hi PmenuSbar                guibg=#ffffff
+  hi PmenuThumb               guifg=#3cac3c
+
+
+"挿入モード終了時に IME 状態を保存しない
+  inoremap <silent> <Esc> <Esc>
+  inoremap <silent> <C-[> <Esc>
+
+highlight LineNr guifg=#777777
+hi Search gui=underline guifg=#ff8787 guibg=NONE
+hi ghcmodType ctermbg=#ffffff gui=underline
